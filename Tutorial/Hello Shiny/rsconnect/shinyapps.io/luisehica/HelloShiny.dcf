@@ -1,0 +1,13 @@
+name: HelloShiny
+title: HelloShiny
+username:
+account: luisehica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6258769
+bundleId: 5884028
+url: https://luisehica.shinyapps.io/HelloShiny/
+when: 1652035315.03974
+lastSyncTime: 1652035315.03975
+asMultiple: FALSE
+asStatic: FALSE
